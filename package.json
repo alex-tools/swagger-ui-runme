@@ -1,0 +1,26 @@
+{
+  "name": "peer-lending",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-tools/swagger-ui-runme.git"
+  },
+  "author": "",
+  "license": "apache2",
+  "bugs": {
+    "url": "https://github.com/alex-tools/swagger-ui-runme/issues"
+  },
+  "homepage": "https://github.com/alex-tools/swagger-ui-runme",
+  "devDependencies": {},
+  "dependencies": {
+    "ecstatic": "^0.6.1",
+    "express": "^4.12.2",
+    "http": "0.0.0"
+  }
+}

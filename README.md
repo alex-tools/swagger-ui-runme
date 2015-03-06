@@ -1,1 +1,5 @@
-# swagger-ui-runme
+# Swagger UI ready to run
+
+```
+./runme
+```
